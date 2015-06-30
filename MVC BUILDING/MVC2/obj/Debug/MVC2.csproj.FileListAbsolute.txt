@@ -1,0 +1,19 @@
+C:\Temp\MVC2\obj\Debug\MVC2.exe
+C:\Temp\MVC2\obj\Debug\MVC2.pdb
+C:\Temp\MVC2\bin\Debug\MVC2.exe
+C:\Temp\MVC2\bin\Debug\MVC2.pdb
+C:\Temp\MVC2\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\MVC2\obj\Debug\MVC2.Form1.resources
+C:\Temp\MVC2\obj\Debug\MVC2.ViewForm1.resources
+C:\Temp\MVC2\obj\Debug\MVC2.ViewForm2.resources
+C:\Temp\MVC2\obj\Debug\MVC2.csproj.GenerateResource.Cache
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\obj\Debug\MVC2.exe
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\obj\Debug\MVC2.pdb
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\bin\Debug\MVC2.exe
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\bin\Debug\MVC2.pdb
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\obj\Debug\MVC2.Form1.resources
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\obj\Debug\MVC2.ViewForm1.resources
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\obj\Debug\MVC2.ViewForm2.resources
+F:\GradDip\7421 C#\H drive\Week_09\Projects\MVC2\obj\Debug\MVC2.csproj.GenerateResource.Cache
+E:\MVC BUILDING\MVC2\obj\Debug\MVC2.exe
+E:\MVC BUILDING\MVC2\obj\Debug\MVC2.pdb

@@ -1,0 +1,24 @@
+E:\MVC BUILDING\MVC2\obj\Debug\BUILDING.csproj.GenerateResource.Cache
+E:\MVC BUILDING\MVC2\obj\Debug\BUILDING.csprojResolveAssemblyReference.cache
+E:\MVC BUILDING\MVC2\bin\Debug\MVC2.exe
+E:\MVC BUILDING\MVC2\bin\Debug\MVC2.pdb
+E:\MVC BUILDING\MVC2\obj\Debug\MVC.Properties.Resources.resources
+E:\MVC BUILDING\MVC2\obj\Debug\MVC.ViewForm4.resources
+E:\MVC BUILDING\MVC2\obj\Debug\MVC.Form1.resources
+E:\MVC BUILDING\MVC2\obj\Debug\MVC.ViewForm1.resources
+E:\MVC BUILDING\MVC2\obj\Debug\MVC.ViewForm2.resources
+E:\MVC BUILDING\MVC2\obj\Debug\MVC2.exe
+E:\MVC BUILDING\MVC2\obj\Debug\MVC2.pdb
+F:\GradDip\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC2.exe
+F:\GradDip\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC2.pdb
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC2.exe
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC2.pdb
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\bin\Debug\MVC2.exe
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\bin\Debug\MVC2.pdb
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\BUILDING.csprojResolveAssemblyReference.cache
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC.Properties.Resources.resources
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC.ViewForm4.resources
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC.Form1.resources
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC.ViewForm1.resources
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\MVC.ViewForm2.resources
+F:\GradDip\Semester 1\7421 C#\ASSIGNMENT MVC\Beryl 1430612\MVC BUILDING\MVC2\obj\Debug\BUILDING.csproj.GenerateResource.Cache
